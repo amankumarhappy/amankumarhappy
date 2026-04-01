@@ -28,8 +28,8 @@
 
 > First-year BTech CSE student building real products — not collecting certificates.
 
-- 🚀 **Founder & CEO** of [Mediokart](https://mediokart.in) — AI-powered healthcare IoT startup
-- 🩺 Building **AuraBox** (Smart First-Aid + Health Intelligence) & **Health Graph** platform
+- 🚀 **Founder & CEO** of [Mediokart](https://mediokart.in) — AI-powered healthcare startup
+- 🩺 Building **AuraBox** (Smart First-Aid + Health Intelligence) & **Health Companion** platform
 - 🎯 Preparing for **Google Summer of Code 2027** — LibreHealth (primary), Sugar Labs (backup)
 - ⚡ Core team member at **Salesforce Bihar** · Google Cloud Arcade Facilitator
 - 📍 Based in **Buxar, Bihar** — proving Tier-3 colleges don't limit Tier-1 ambition
