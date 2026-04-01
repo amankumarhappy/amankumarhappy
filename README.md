@@ -3,13 +3,13 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&pause=1000&color=1A6EF5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aman+Kumar+Happy+%F0%9F%91%8B;Founder+%26+CEO+%40+Mediokart+%F0%9F%9A%80;BTech+CSE+'29+%7C+GSoC+2026+Aspirant+%F0%9F%8E%AF;Building+AI+for+Healthcare+%F0%9F%A9%BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&pause=1000&color=1A6EF5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aman+Kumar+Happy+%F0%9F%91%8B;Founder+%26+CEO+%40+Mediokart+%F0%9F%9A%80;BTech+CSE+'29+%7C+GSoC+2027+Aspirant+%F0%9F%8E%AF;Building+AI+for+Healthcare+%F0%9F%A9%BA" alt="Typing SVG" />
 </h1>
 
 <p>
   <img src="https://img.shields.io/badge/BTech%20CSE-GEC%20Buxar%20'29-1a6ef5?style=flat-square&logo=graduation-cap" />
   <img src="https://img.shields.io/badge/Founder-Mediokart-0ecfa4?style=flat-square&logo=heart" />
-  <img src="https://img.shields.io/badge/GSoC%202026-Aspirant-f5a623?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/GSoC%202027-Aspirant-f5a623?style=flat-square&logo=google" />
   <img src="https://img.shields.io/badge/Bihar%2C%20India-📍-6c3de8?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=amankumarhappy&color=1a6ef5&style=flat-square&label=Profile+Views" />
 </p>
@@ -30,7 +30,7 @@
 
 - 🚀 **Founder & CEO** of [Mediokart](https://mediokart.in) — AI-powered healthcare IoT startup
 - 🩺 Building **AuraBox** (Smart First-Aid + Health Intelligence) & **Health Graph** platform
-- 🎯 Preparing for **Google Summer of Code 2026** — LibreHealth (primary), Sugar Labs (backup)
+- 🎯 Preparing for **Google Summer of Code 2027** — LibreHealth (primary), Sugar Labs (backup)
 - ⚡ Core team member at **Salesforce Bihar** · Google Cloud Arcade Facilitator
 - 📍 Based in **Buxar, Bihar** — proving Tier-3 colleges don't limit Tier-1 ambition
 - 📖 Currently learning: **DSA, Node.js backend, AI/ML fundamentals**
@@ -115,8 +115,8 @@
 
 ## 🎯 2026 Goals
 
-- [ ] Get selected in **Google Summer of Code 2026** (LibreHealth)
-- [ ] Deploy **ArMap v1** — first live personal project
+
+- [ ] Deploy **NexFlow** — first live personal project
 - [ ] Launch **Mediokart Health Graph** MVP
 - [ ] 100+ DSA problems solved
 - [ ] First meaningful open source contribution merged
@@ -128,5 +128,5 @@
 <div align="center">
   <i>"I'm not building a company — I'm building a legacy. Consistency over intensity. Execution over ideas. Depth over quantity."</i><br/>
   <b>— Aman Kumar Happy, Founder · Mediokart 🚀</b><br/><br/>
-  <sub>📍 Bihar, India · Last updated: 2026 · Year 1 of BTech CSE</sub>
+  <sub>📍 Bihar, India · Last updated: 2027 · Year 1 of BTech CSE</sub>
 </div>
