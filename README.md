@@ -113,7 +113,7 @@ No app download. No account. Just WhatsApp — delivering MBBS-reviewed first-ai
 
 ## ⚙️ &nbsp;Tech Stack
 
-> ✅ = actively using  |  📖 = currently learning  |  `<!-- commented -->` = plan to learn next
+> ✅ = actively using  |  📖 = currently learning  |  <!-- commented --> <!-- = plan to learn next -->
 
 <div align="center">
 
@@ -170,7 +170,7 @@ No app download. No account. Just WhatsApp — delivering MBBS-reviewed first-ai
 
 <!-- ✅ Used during AICTE internship -->
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<!--![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) -->
 
 <!-- 🔜 Uncomment as you go deeper -->
 <!-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) -->
@@ -186,7 +186,7 @@ No app download. No account. Just WhatsApp — delivering MBBS-reviewed first-ai
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+<!--![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)-->
 
 <!-- 📖 Doing hands-on labs -->
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -202,9 +202,9 @@ No app download. No account. Just WhatsApp — delivering MBBS-reviewed first-ai
 ### 🔌 &nbsp;APIs & Integrations
 
 <!-- ✅ Used in SAHAYAK -->
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+<!--![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat-square&logo=googlesheets&logoColor=white)-->
 
 <br/>
 
@@ -344,13 +344,10 @@ No app download. No account. Just WhatsApp — delivering MBBS-reviewed first-ai
 | 🥇 | **Winner** — Poster Making Competition · UMANG'26 · GEC Buxar | 2026 |
 | 🥇 | **Winner** — Thrust Event · Techmiti'25 · *(Team NexaForce)* | 2025 |
 | 🎤 | Speaker — Salesforce User Group Patna | 2026 |
-| 🚀 | Startup Mahakumbh 2025 · New Delhi | 2025 |
-| ☁️ | Intro to Generative AI — Google Cloud Skills Boost | 2025 |
 | 🤖 | AI & ML Workshop — Celesta'24 · IIT Patna | 2024 |
 | 🔐 | AI for Cybersecurity Bootcamp | 2025 |
 | 📊 | Data Analytics with LLMs — Edunet · AICTE Certified | 2025 |
-| 🐍 | 1 Year on Kaggle | 2025 |
-| 🏛️ | Certificate of Participation — Sansad 2.0 National Youth Parliament · Unstop | 2026 |
+
 
 <!-- Add more rows as you earn new certifications -->
 
